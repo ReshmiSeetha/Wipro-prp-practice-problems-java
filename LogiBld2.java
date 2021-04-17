@@ -1,3 +1,10 @@
+/*
+ Read a string and traverse the the characters in even positions to front and odd possitions  to the last.
+Input:
+	project
+Output:
+	poetrjt
+*/
 import java.util.Scanner;
 public class LogiBld2 {
 	public static void rep(String[] s2) {
